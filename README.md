@@ -52,7 +52,7 @@ To run the project:
     ```bash
     pip install pandas numpy scikit-learn xgboost matplotlib seaborn
     ```
-4. Run the script `diamond_price_prediction.py` or open the Jupyter notebook `diamond_price_prediction.ipynb` to start training the models and make predictions.
+4. Open the Jupyter notebook `diamond_price_prediction.ipynb` to start training the models and make predictions.
 
 ## Conclusion
 
