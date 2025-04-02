@@ -44,15 +44,8 @@ The **XGBoost (with hyperparameters)** model performed the best, outperforming t
 
 ## Instructions
 
-To run the project:
-
-1. Download the dataset "**Diamond Price Prediction**" from Kaggle.
-2. Clone or download the project repository.
-3. Install the required libraries:
-    ```bash
-    pip install pandas numpy scikit-learn xgboost matplotlib seaborn
-    ```
-4. Open the Jupyter notebook `diamond_price_prediction.ipynb` to start training the models and make predictions.
+### To run the project:
+Open the ipynb file in this repository, and there click the **Open in colab** button
 
 ## Conclusion
 
